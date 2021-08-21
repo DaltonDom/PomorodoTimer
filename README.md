@@ -5,8 +5,11 @@
 - Allows to delete and play tasks 
 - Animated countdown to keep you on track with your progress
 
-<img src="6.5-inch Screenshot 1.jpg" width="500" height="600">
-<img src="6.5-inch Screenshot 2.jpg" width="500" height="500">
+<p float="left">
+  <img src="6.5-inch Screenshot 1.jpg" width="500" height="600">
+  <img src="6.5-inch Screenshot 2.jpg" width="500" height="600">
+</p>
+
 
 ## Requirements
 In order to compile Pomorodo Timer you will need to meet the following requirements:
