@@ -21,3 +21,8 @@ In order to compile Pomorodo Timer you will need to meet the following requireme
 ## Coming Soon
 - In the works of uploading to Play Store
 - IOS is still TBD
+
+<p float="left">
+  <img src="6.5-inch Screenshot 3.jpg" width="500" height="600">
+  <img src="6.5-inch Screenshot 4.jpg" width="500" height="600">
+</p>
