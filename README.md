@@ -5,7 +5,7 @@
 - Allows to delete and play tasks 
 - Animated countdown to keep you on track with your progress
 
-![](IMG_3078.png)
+![](IMG_3078.PNG)
 ![](IMG_3079.png)
 
 ## Requirements
